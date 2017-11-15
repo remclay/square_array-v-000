@@ -7,4 +7,5 @@ new_square_array = []
   new_square_array
 end
 
-square_array(1, 4, 5)
+test = [1, 4, 5]
+square_array(test)
