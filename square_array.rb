@@ -6,6 +6,3 @@ new_square_array = []
   end
   new_square_array
 end
-
-
-square_array([1, 2, 3])
