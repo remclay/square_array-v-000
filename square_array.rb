@@ -6,7 +6,7 @@ def square_array(array)
 end
 
 
-# Bonus: implemented with .collect
-def square_array(array)
-  array.collect {|number| number ** 2}
-end
+# Implemented with .collect
+#def square_array(array)
+#  array.collect {|number| number ** 2}
+#end
